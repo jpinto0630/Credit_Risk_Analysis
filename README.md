@@ -9,17 +9,29 @@ The purpose of this analysis it to utilize supervised machine learning to evalua
 The following are the balanced accuracy, precision, and recall scores for all 6 models utilized. 
 
 ### Random Over Sampling 
--	SS 1
+
+-	![SS1](https://user-images.githubusercontent.com/67031885/130385926-3bcc9a31-a4cd-4ce3-a25f-87ba7ddc844f.PNG)
+
 ### SMOTE Oversampling
--	SS 2
+
+-	![SS2](https://user-images.githubusercontent.com/67031885/130385934-0b31525f-b906-4591-bb07-1b1ce687a5a8.PNG)
+
 ### ClusterCentroids Under sampling 
--	SS 3
+
+-	![SS3](https://user-images.githubusercontent.com/67031885/130385956-fce18112-1237-4981-be56-5730a0701294.PNG)
+
 ### SMOTEENN over and under sampling 
--	SS 4
+
+-	![SS4](https://user-images.githubusercontent.com/67031885/130385966-21be5ec2-e585-46de-83bb-20256ff75209.PNG)
+
 ### Balanced Random Forest Classifier Model 
--	SS 5
+
+-	![SS5](https://user-images.githubusercontent.com/67031885/130385981-b767728b-056c-4d2a-8062-33b92817d4e2.PNG)
+
 ### Easy Ensemble AdaBoost Model 
--	SS 6
+
+-	![SS6](https://user-images.githubusercontent.com/67031885/130385989-5f00b098-abaa-4a50-a3fd-b53a0fe59772.PNG)
+
 
 
 ## Summary
